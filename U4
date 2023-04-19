@@ -1,0 +1,41 @@
+class Human:
+    species1 = "Homo sapiens"
+    species2 = "Homo erectus"
+    species3 = "Homo habilis" 
+
+    def speak(self):
+        print("Hello, I am Homo sapiens!")
+
+    def walk(self):
+        print("Hello, I walk!")
+
+    def think(self):
+        print("Cogito, ergo sum!")
+
+class Car:
+    brand1 = "Volkswagen"
+    brand2 = "Volvo"
+    brand3 = "Tesla"
+
+    def drive(self):
+        print("Vroom, I drive!")
+
+    def breakdown(self):
+        print("Oops, I can't drive!")
+
+    def crash(self):
+        print("S**t, I crashed!")
+
+class Student:
+    kind1 = "1st Year"
+    kind2 = "2nd Year"
+    kind3 = "3rd Year"
+
+    def study(self):
+        print("I study!")
+
+    def read(seld):
+        print("Hi, I'm in the library!")
+
+    def present(self):
+        print("Hello, today I present my paper!")
